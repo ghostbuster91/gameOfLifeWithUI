@@ -1,6 +1,6 @@
 # gameOfLifeWithUI
 
-This is my very first implemenation of popular [Conway's Game of Life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life) with ui implemented using swing.
+This is my very first implemenation of popular [Conway's Game of Life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life) with ui implemented using swing, which I did somewhare at the end of 2014.
 
 Unfortunatelly I lost the source code, so what you see here is a result of decompiler from original jar file.
 
